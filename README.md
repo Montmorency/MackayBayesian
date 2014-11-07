@@ -9,5 +9,5 @@ Unstable particles are emitted from a source and decay at
 a distance x, a real number that has an exponential
 probability distribution with characteristic length $\lambda$.
 Decay events can be observed only if they occur in a window extending
-from x = 1 cm to x = 20 cm. N decarys are observed at locations 
+from x = 1 cm to x = 20 cm. N decays are observed at locations 
 ${x_{1}, ... x_{N}}$. What is $\lambda$?
