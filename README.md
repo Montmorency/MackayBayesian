@@ -1,6 +1,9 @@
-Mathematica notebook:   
-Discussion from David J. C. Mackay's  book Information theory, 
-Inference, and Learning Algorithms regarding tripos question:
+Mathematica Notebook Bayesian Introduction:   
+===============
+
+Discussion from David J. C. Mackay's book [Information theory, 
+Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html) 
+regarding tripos question:
 
 Unstable particles are emitted from a source and decay at
 a distance x, a real number that has an exponential
